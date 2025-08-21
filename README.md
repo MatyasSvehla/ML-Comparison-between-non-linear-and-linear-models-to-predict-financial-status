@@ -1,7 +1,8 @@
 # ML-Comparison-between-non-linear-and-linear-models-to-predict-financial-status
 Comparison between non-linear and linear models to predict financial status in a low-dimensional dataset, Authors: David G. Mora Salazar, Matyáš Švehla, Marta Wolf, Hai Yen
 
-Abstract
+Abstract:
+
 Prediction of a default among clients is one of the most common applications
 of machine learning models in finance. This paper applies several models.
 Among the linear models, logistic regression, LASSO, and Ridge regression
@@ -17,6 +18,7 @@ Boost (AUC = 0.916) outperforms Random Forest (AUC = 0.906). Notably,
 XGBoost outperforms both other nonlinear and linear models. These results
 confirm the effectiveness of non-linear machine learning models in banking ap-
 plications, particularly when predictive accuracy is critical.
+
 Keywords: Variable selection algorithm, null values imputing tech-
 niques, linear models, regularization, non-linear models, learning by
 correcting models
